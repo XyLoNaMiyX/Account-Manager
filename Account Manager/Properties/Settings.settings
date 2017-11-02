@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Account_Manager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WindowLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="WindowSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">500, 300</Value>
+    </Setting>
+    <Setting Name="SiteWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">108</Value>
+    </Setting>
+    <Setting Name="EmailWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">128</Value>
+    </Setting>
+    <Setting Name="UserWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">74</Value>
+    </Setting>
+    <Setting Name="PassWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

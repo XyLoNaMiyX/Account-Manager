@@ -1,0 +1,71 @@
+this.Text = LanguageManager.GetString("MainWindowF");
+this.accountsFileOFD.Filter = LanguageManager.GetString("acfFilter");
+this.accountsFileOFD.Title = LanguageManager.GetString("accountsFileOFD");
+this.accountsFileSFD.Filter = LanguageManager.GetString("acfFilter");
+this.accountsFileSFD.Title = LanguageManager.GetString("accountsFileSFD");
+this.linfoL.Text = LanguageManager.GetString("linfoL");
+this.lpassTB.PasswordChar = LanguageManager.GetString("passwordChar")[0];
+this.lcontinueB.Text = LanguageManager.GetString("continue");
+this.lexitB.Text = LanguageManager.GetString("exit");
+this.loginGB.Text = LanguageManager.GetString("loginGB");
+this.infoTSSL.Text = LanguageManager.GetString("infoTSSL");
+this.informationSS.Text = LanguageManager.GetString("informationSS");
+this.checkUpdatesTSMI.Text = LanguageManager.GetString("checkUpdates");
+this.supportTSMI.Text = LanguageManager.GetString("supportTSMI");
+this.tutorialTSMI.Text = LanguageManager.GetString("tutorialTSMI");
+this.helpTSMI.Text = LanguageManager.GetString("helpTSMI");
+this.optionsTSMI.Text = LanguageManager.GetString("options");
+this.accountscmsTSMI.Text = LanguageManager.GetString("accountscmsTSMI");
+this.saveAccountFileAsTSMI.Text = LanguageManager.GetString("saveAccountFileAsTSMI");
+this.loadAccountFIleTSMI.Text = LanguageManager.GetString("loadAccountFIleTSMI");
+this.newAccountsFileTSMI.Text = LanguageManager.GetString("newAccountsFileTSMI");
+this.accountsTSMI.Text = LanguageManager.GetString("accountsTSMI");
+this.menuS.Text = LanguageManager.GetString("menuS");
+this.removeAccountTSMI.Text = LanguageManager.GetString("removeAccountTSMI");
+this.editAccountTSMI.Text = LanguageManager.GetString("editAccountTSMI");
+this.addAccountTSMI.Text = LanguageManager.GetString("addAccountTSMI");
+this.openSiteTSMI.Text = LanguageManager.GetString("openSiteTSMI");
+this.copyPassTSMI.Text = LanguageManager.GetString("copyPass");
+this.passwordCH.Text = LanguageManager.GetString("passwordCH");
+this.nicknameCH.Text = LanguageManager.GetString("nicknameCH");
+this.emailCH.Text = LanguageManager.GetString("emailCH");
+this.siteCH.Text = LanguageManager.GetString("siteCH");
+this.exit.Text = LanguageManager.GetString("exit");
+this.accountsGB.Text = LanguageManager.GetString("accountsGB");
+this.aShowpwCB.Text = LanguageManager.GetString("aShowpwCB");
+
+
+this.checkB.Text = LanguageManager.GetString("checkUpdates");
+this.Text = LanguageManager.GetString("checkUpdates");
+this.infoL.Text = LanguageManager.GetString("infoL");
+
+
+this.Text = LanguageManager.GetString("options");
+this.cancelB.Text = LanguageManager.GetString("cancel");
+this.behaviourGB.Text = LanguageManager.GetString("behaviourGB");
+this.doubleClickCB.Items.AddRange(new object[] {
+LanguageManager.GetString("copyPass"),
+LanguageManager.GetString("openSite")
+});
+this.acceptB.Text = LanguageManager.GetString("accept");
+this.doubleClickL.Text = LanguageManager.GetString("doubleClickL");
+
+
+this.label1.Text = LanguageManager.GetString("label1");
+this.firstPassTB.PasswordChar = LanguageManager.GetString("passwordChar")[0];
+this.secondPassTB.PasswordChar = LanguageManager.GetString("passwordChar")[0];
+this.showPassCB.Text = LanguageManager.GetString("showPassCB");
+this.info2L.Text = LanguageManager.GetString("info2L");
+this.acceptB.Text = LanguageManager.GetString("accept");
+this.exitB.Text = LanguageManager.GetString("exit");
+this.Text = LanguageManager.GetString("FirstTimeF");
+
+
+this.Text = LanguageManager.GetString("AddAccountF");
+this.showPassCB.Text = LanguageManager.GetString("showPassCB");
+this.cancelB.Text = LanguageManager.GetString("cancel");
+this.acceptB.Text = LanguageManager.GetString("accept");
+this.passL.Text = LanguageManager.GetString("passL");
+this.userL.Text = LanguageManager.GetString("userL");
+this.emailL.Text = LanguageManager.GetString("emailL");
+this.siteL.Text = LanguageManager.GetString("siteL");
